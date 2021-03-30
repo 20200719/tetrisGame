@@ -11,5 +11,5 @@ if number == 1:
 if number == 2:
     print("왼쪽으로 이동")
 #만약에 3번을 누르면 블록 바꾸기
-if number == 3:
+if number == 3:``
     print("블록 바꿈.")
